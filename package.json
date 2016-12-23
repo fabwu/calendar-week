@@ -1,0 +1,19 @@
+{
+  "name": "calendar-week",
+  "version": "1.0.0",
+  "description": "Simple function which return week of the year",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuethrich44/calendar-week.git"
+  },
+  "author": "Fabian Wüthrich <fabian.wuethrich@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuethrich44/calendar-week/issues"
+  },
+  "homepage": "https://github.com/wuethrich44/calendar-week#readme"
+}
